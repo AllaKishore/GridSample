@@ -1,14 +1,37 @@
 # noUiSlider
 
-noUiSlider is lightweight plugin, developed to be a jQuery UI alternative. It features cross-browser support, a `just-another-input-type` style of getting and setting values, a wide range of options and support for a bunch of touch devices. It works wonders on Android phones, iPhone & iPad, Windows phone and touch-screen laptops and tablets. It works excellent on the desktop too; All modern browsers and IE7+ are supported. The end result? A lean, extendible and bloat-less plugin that'll just do its job. To add even more flexibility, noUiSlider is compatible with both jQuery and Zepto.js. Oh, and the licensing terms are simple: [just do what you want](http://www.wtfpl.net/about/).
+noUiSlider is lightweight plugin, developed to be a jQuery UI alternative. 
 
- Documentation
+It features cross-browser support, a `just-another-input-type` style of 
+
+getting and setting values, a wide range of options and support for a bunch 
+
+of touch devices. It works wonders on Android phones, iPhone & iPad, 
+
+Windows phone and touch-screen laptops and tablets. It works excellent on 
+
+the desktop too; All modern browsers and IE7+ are supported. The end 
+
+result? A lean, extendible and bloat-less plugin that'll just do its job. 
+
+To add even more flexibility, noUiSlider is compatible with both jQuery and 
+
+Zepto.js. Oh, and the licensing terms are simple: [just do what you want]
+
+(http://www.wtfpl.net/about/).
+
+
+Documentation
 -------
+An extensive documentation, including **examples**, **options** and 
 
-An extensive documentation, including **examples**, **options** and **configuration details**, is available here: [noUiSlider documentation](http://refreshless.com/nouislider/).
+**configuration details**, is available here: [noUiSlider documentation]
+
+(http://refreshless.com/nouislider/).
 
 
-# angular-nouislider
+
+angular-nouislider
 ==================
 
 Simple angular directive for jquery [nouislider]
